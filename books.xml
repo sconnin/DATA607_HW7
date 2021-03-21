@@ -6,7 +6,7 @@
 	<ISBN>9780060916503</ISBN>
 	<Publisher>HARPERCOLLINS PUBLISHERS</Publisher>
 	<Pages>207</Pages>
-	<Copyright Year>1990</Copyright Year>
+	<Copyright>1990</Copyright>
 </Book>
 <Book>
 	<ID>2</ID>
@@ -15,7 +15,7 @@
 	<ISBN>9780345345059</ISBN>
 	<Publisher>PENGUIN RANDOM HOUSE</Publisher>
 	<Pages>320</Pages>
-	<Copyright Year>1966</Copyright Year>
+	<Copyright>1966</Copyright>
 </Book>
 <Book>
 	<ID>3</ID>
@@ -24,6 +24,6 @@
 	<ISBN>9780671695880</ISBN>
 	<Publisher>POCKET BOOKS</Publisher>
 	<Pages>288</Pages>
-	<Copyright Year>1990</Copyright Year>
+	<Copyright>1990</Copyright>
 </Book>
 </Books>
